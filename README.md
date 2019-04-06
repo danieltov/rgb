@@ -1,4 +1,4 @@
-# The Great RGB Guessing Game ([View Deployment](https://danieltov.github.io/read-this/))
+# The Great RGB Guessing Game ([View Deployment](https://danieltov.github.io/rgb/))
 
 ## About
 The Great RGB Guessing Game is simple. Users are provided an RGB value and six color swatches. The aim of the game is to match the color swatch with the RGB code.
